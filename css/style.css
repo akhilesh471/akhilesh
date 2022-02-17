@@ -121,9 +121,6 @@ section {
   	background-size: cover;
 }
 
-#header {
-	/* height: 98px; */
-}
 
 
 /* ===== Begin text colors ===== */
@@ -168,7 +165,7 @@ section {
 	transition: all 0.2s ease-in-out;
 }
 .navbar-default .navbar-brand {
-	background-image: url("../img/a.png");
+	background-image: url('../img/a.png');
 
 
 }
@@ -410,8 +407,7 @@ a.rotate-box-1:hover, a.rotate-box-2:hover {
 
 
 /* ===== Begin progress bar ===== */
-.skill-bar {
-}
+
 .progress {
 	overflow: visible;
 	height: 25px;
